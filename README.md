@@ -76,7 +76,7 @@ Marksheet.pdf
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pdf-merger.git
+git clone https://github.com/raunakraman/Pdf-merger
 ```
 
 ### 2. Navigate to the project directory
